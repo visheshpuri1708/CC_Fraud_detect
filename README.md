@@ -55,7 +55,7 @@ Click the predict button the get the decision on the transaction.
 
 
 <p align="left">
-  <img src="/fraud_ss.png" width="40%" />
-  <img src="/normal_ss.png" width="40%" /> 
+  <img src="/fraud_1.png" width="40%" />
+  <img src="/normal_1.png" width="40%" /> 
   
 </p>
