@@ -22,6 +22,22 @@ The GUI for the model is built using Tkinter library. Tkinter is the standard GU
 
 The dataset used in this notebook can be found at https://drive.google.com/file/d/1WFMcTnMykqyF9kNOIiM8g64pqKDQMAuH/view?usp=sharing
 
+Libraries used:
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Warnings
+* Sklearn
+* Plotly
+* Joblib
+* Tkinter
+
+SKLearn models used:
+* Logistic Regression
+* Decision Tree Classifier
+* Random Forest Classifier
+* KNN Classifier
 
 ### Instructions to initialize the detector
 
