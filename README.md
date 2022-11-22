@@ -52,3 +52,7 @@ Open the CCF.ipynb file in VSCode and run the last cell containing the GUI imple
 Enter the values for V1-V28 and the amount column in the GUI window.
 
 Click the predict button the get the decision on the transaction.
+
+
+### GUI 
+![normal_ss](normal_ss.png)
