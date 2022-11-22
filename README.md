@@ -1,4 +1,4 @@
-# Fraud_detection_CC
+# Fraud_Detection_Credit_Card
 
 Banking frauds have risen to a great extent over the past few years. The most common fraud occurs with the credit cards. It is a concerning issue for both banks and customers as it may result in financial loses for both and banks may lose their credibility. Machine Learning can help banks by detecting the fraudlent trasnactions and taking necessary actions immediately. It reduces the time-consuming manual reviews and hefty fees related to denial of legitimate transactions.  
 
@@ -15,9 +15,24 @@ The models used in the notebook include:
 4. <b>KNN Classifier</b>: In k-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 
 
-The graphs for analysis are plotted using <b>Matplotlib</b> and <b>seaborn</b>. It is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+The graphs for analysis are plotted using <b>Matplotlib</b>, <b>Plotly</b> and <b>seaborn</b>. It is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 The GUI for the model is built using Tkinter library. Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
 
 The dataset used in this notebook can be found at https://drive.google.com/file/d/1WFMcTnMykqyF9kNOIiM8g64pqKDQMAuH/view?usp=sharing
+
+
+### Instructions to initialize the detector
+
+The python notebook contains GUI implemented using the Tkinter library. 
+
+The GUI works efficiently on Visual Studio Code. 
+
+Download all the files from this repository along with the dataset. The dataset should be kept in the same folder with the IPYNB file.
+
+Open the CCF.ipynb file in VSCode and run the last cell containing the GUI implementation.
+
+Enter the values for V1-V28 and the amount column in the GUI window.
+
+Click the predict button the get the decision on the transaction.
