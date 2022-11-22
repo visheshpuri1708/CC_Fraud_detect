@@ -54,8 +54,8 @@ Enter the values for V1-V28 and the amount column in the GUI window.
 Click the predict button the get the decision on the transaction.
 
 
-<p align="left">
+<p align="center">
   <img src="/fraud_1.png" width="40%" />
-  <img src="/normal_1.png" width="40%" /> 
+  <img src="/normal_1.png" width="39%" /> 
   
 </p>
