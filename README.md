@@ -4,6 +4,13 @@ Banking frauds have risen to a great extent over the past few years. The most co
 
 This jupyter notebook is designed to predict a transaction as a <b><i>normal</i></b> or a <b><i>fraud</i></b> transaction based on a series of values. The data is preprocessed before analysis using pandas and numpy. Machine learning models are used for the detection.
 
+<p align="center">
+  <img src="/fraud_1.png" width="39%" />
+  <img src="/normal_1.png" width="39%" /> 
+  
+</p>
+
+
 The models used in the notebook include:
 
 1. <b>Logistic Regression</b>: the logistic model is a statistical model that models the probability of an event taking place by having the log-odds for the event be a linear combination of one or more independent variables.
@@ -54,8 +61,3 @@ Enter the values for V1-V28 and the amount column in the GUI window.
 Click the predict button the get the decision on the transaction.
 
 
-<p align="center">
-  <img src="/fraud_1.png" width="39%" />
-  <img src="/normal_1.png" width="39%" /> 
-  
-</p>
