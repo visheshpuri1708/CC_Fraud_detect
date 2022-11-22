@@ -54,7 +54,8 @@ Enter the values for V1-V28 and the amount column in the GUI window.
 Click the predict button the get the decision on the transaction.
 
 
-### GUI 
-      Normal transaction output             |     Fraud transaction output
-:------------------------------------:|:------------------------------------:
-![normal_ss](normal_ss.png)           |     ![fraud_ss](fraud_ss.png)
+<p float="left">
+  <img src="/fraud_ss.png" width="100" />
+  <img src="/normal_ss.png" width="100" /> 
+  
+</p>
