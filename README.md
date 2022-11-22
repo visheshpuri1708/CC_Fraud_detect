@@ -50,7 +50,7 @@ SKLearn models used:
 
 The python notebook contains GUI implemented using the Tkinter library. 
 
-The GUI works efficiently on Visual Studio Code. 
+The GUI works efficiently on Visual Studio Code. The plotly versions may mismatch and may result in an error. It works perfectly with Visual Studio Code.
 
 Download all the files from this repository along with the dataset. The dataset should be kept in the same folder with the IPYNB file.
 
