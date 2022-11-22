@@ -55,4 +55,5 @@ Click the predict button the get the decision on the transaction.
 
 
 ### GUI 
-![normal_ss](normal_ss.png)
+Normal transaction output                       Fraud transaction output
+![normal_ss](normal_ss.png)                    ![fraud_ss](fraud_ss.png)
